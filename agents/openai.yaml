@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外 AI 短剧 / 短剧爆款内容拆解"
+  short_description: "从短剧链接或视频文件读取剧情，拆解标题钩子与逐段节奏，生成中文脚本框架"
+  default_prompt: "用 $overseas-short-drama-breakdown 读取我发的短剧链接或视频，给我中文拆解报告和一份可直接填拍的脚本框架。"
